@@ -1,0 +1,15 @@
+
+path:  ../train_data_1/images/
+train: train 
+val:   val
+
+names:
+  0: Mischwald
+  1: Bodenpunkt
+  2: Nadelwald
+  3: Gebuesch
+  4: Schilf
+  5: Laubwald
+
+  
+

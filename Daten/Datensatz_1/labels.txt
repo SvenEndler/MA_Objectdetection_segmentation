@@ -1,0 +1,8 @@
+Mischwald
+Bodenpunkt
+Nadelwald
+Gebuesch
+Schilf
+Laubwald
+
+
