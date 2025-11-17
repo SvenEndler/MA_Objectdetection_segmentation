@@ -9,7 +9,7 @@ Das System zur Objekterkennung und anschließenden Segmentierung.
 Die Auswertung der Modelle.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wa5DQ-CiksjqLkfo302oSqIwvAB4cEIh?usp=sharing)
 
-# Abstract:
+## Abstract:
 
 Diese Masterarbeit beschäftigt sich mit der automatisierten Erkennung und 
 Segmentierung von Symbolen und Piktogrammen in Karten. Dafür wurde ein System 
